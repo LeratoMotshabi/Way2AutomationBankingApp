@@ -1,0 +1,1 @@
+{"uuid":"27dc971c-eb50-4da8-ae73-fe42b2998c9e","name":"Customer Login Test Cases","children":["d172d9c2-4cd4-4d3d-a0b6-4858dc035b07"],"befores":[{"name":"goToCustomerLogin","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734674537893,"stop":1734674538087}],"afters":[],"start":1734674537893,"stop":1734674538813}

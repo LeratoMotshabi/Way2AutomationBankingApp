@@ -1,0 +1,1 @@
+{"uuid":"08ceb1dd-54d3-492b-8dee-ad49c03e5583","name":"Default test","children":["312fa902-819f-430d-99a9-0cc523ba02d2"],"befores":[{"name":"gotToOpenAccountPage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733741332704,"stop":1733741334362}],"afters":[],"start":1733741332699,"stop":1733741335343}

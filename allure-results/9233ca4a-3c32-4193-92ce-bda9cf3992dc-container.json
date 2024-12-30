@@ -1,0 +1,1 @@
+{"uuid":"9233ca4a-3c32-4193-92ce-bda9cf3992dc","name":"Customer List Test Cases(failed)","children":["437b0040-0bb7-4be9-b718-12647d81de81"],"befores":[{"name":"goToCustomers","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734675279666,"stop":1734675279896}],"afters":[],"start":1734675279666,"stop":1734675280548}

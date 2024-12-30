@@ -1,0 +1,1 @@
+{"uuid":"cab86052-8331-4326-9478-c70fb9b654b7","name":"Default test","children":["f28a91a7-63cb-43d5-ab75-96a8b91ec3fc"],"befores":[{"name":"gotToOpenAccountPage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733739444728,"stop":1733739446301}],"afters":[],"start":1733739444722,"stop":1733739447245}
