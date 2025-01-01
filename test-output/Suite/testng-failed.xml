@@ -32,6 +32,7 @@
         <methods>
           <include name="verifyWithdrawlAmountMoreThanBalance"/>
           <include name="goToCustomerLogin"/>
+          <include name="verifyWithdrawlSuccessfulMessage"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.BankingApp.TestCases.AccountTestCases -->

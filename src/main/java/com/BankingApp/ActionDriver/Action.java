@@ -116,6 +116,8 @@ public class Action extends BaseClass {
 		// Log the selection action
 		Listeners.test.get().info("Selected : " + value + " from " + locator);
 	}
+	
+
 
 	/**
 	 * Checks if an alert is present on the page.

@@ -32,6 +32,21 @@ public class RandomSelector {
 		
 	}
 	
+	public static String getRandomCurrency()
+	{
+		List <String> names = new ArrayList<>();
+		names.add("Dollar");
+		names.add("Pound");
+		names.add("Rupee");
+		
+		
+		Random random = new Random();
+		int randomindex = random.nextInt(names.size());
+		return names.get(randomindex);
+		
+		
+	}
+	
 	public static int randomnumber()
 	{
 		
