@@ -1,1 +1,0 @@
-{"uuid":"d79c684b-b243-420a-ac88-0db3d3bcf057","name":"Failed suite [Default suite]","children":["37ae09ef-6a31-44bd-9e19-b93858f2ecd8"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1735623744297,"stop":1735623750061}],"afters":[],"start":1735623744285,"stop":1735623800717}

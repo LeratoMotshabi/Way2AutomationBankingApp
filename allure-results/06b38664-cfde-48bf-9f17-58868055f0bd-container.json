@@ -1,1 +1,0 @@
-{"uuid":"06b38664-cfde-48bf-9f17-58868055f0bd","name":"Add Customer Test Cases(failed)","children":["bab0bb2f-a3a5-470f-a0fc-13782310e002"],"befores":[{"name":"goToAddCustomer","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734675275334,"stop":1734675276929}],"afters":[],"start":1734675275332,"stop":1734675277930}

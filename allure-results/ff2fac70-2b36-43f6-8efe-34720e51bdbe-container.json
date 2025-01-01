@@ -1,1 +1,0 @@
-{"uuid":"ff2fac70-2b36-43f6-8efe-34720e51bdbe","name":"com.BankingApp.TestCases.CustomerLoginTestCases","children":["96312087-ac25-4195-9b5b-4f12fe39ade3"],"befores":[{"name":"setup","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734024747086,"stop":1734024747087}],"afters":[],"start":1734024746655,"stop":1734024747525}

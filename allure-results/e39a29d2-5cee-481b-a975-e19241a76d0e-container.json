@@ -1,1 +1,0 @@
-{"uuid":"e39a29d2-5cee-481b-a975-e19241a76d0e","name":"Account Test Cases(failed)","children":["3a48b1fa-3e15-400d-a1a8-c28bbefe44a9"],"befores":[{"name":"goToCustomerLogin","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734589211798,"stop":1734589212518}],"afters":[],"start":1734589211797,"stop":1734589213657}
